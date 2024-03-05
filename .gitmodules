@@ -1,0 +1,9 @@
+[submodule "Diabetic-feet-diagnosis-app"]
+	path = Diabetic-feet-diagnosis-app
+	url = https://github.com/MDrica1/Diabetic-foot-diagnosis-app
+[submodule "Contenct-based-recommendation-system"]
+	path = Contenct-based-recommendation-system
+	url = https://github.com/MDrica1/Content-based-recommendation-system
+[submodule "Scikit-learn"]
+	path = Scikit-learn
+	url = https://github.com/MDrica1/Scikit-learn
